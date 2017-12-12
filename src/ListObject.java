@@ -1,5 +1,3 @@
-package src;
-
 import org.jetbrains.annotations.NotNull;
 
 public class ListObject<E> extends Object {

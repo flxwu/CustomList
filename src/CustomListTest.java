@@ -1,5 +1,3 @@
-package src;
-
 import org.junit.jupiter.api.Test;
 
 import java.math.BigInteger;
